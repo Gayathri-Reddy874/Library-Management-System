@@ -1,2 +1,2 @@
-# Library-Management-System
-The C-based Library Management System is a testament to the power of low-level programming. The project uses efficient file I/O for persistent data storage and a linked list data structure for flexible book and user management. It's a comprehensive portfolio piece demonstrating a solid grasp of core C principles and effective console UI design.
+C-based Library Management System 📚
+This project is a console-based Library Management System built entirely in C language. It demonstrates a strong foundation in core C programming concepts, file handling for persistent data storage, and the implementation of essential data structures like linked lists for efficient record management. The application provides key functionalities such as adding, deleting, and searching for books. It is a robust showcase of low-level programming skills.
